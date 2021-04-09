@@ -1,4 +1,5 @@
 # Self Music
+Author: NaN#7070
 
 ## Requirements
 ### ffmpeg (in your path)
