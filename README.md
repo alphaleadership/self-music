@@ -14,4 +14,4 @@ Get an user token: https://www.youtube.com/watch?v=3W9tAEsK7RM
 ### Get the ID of the channel where you want the client to connect
 *Make sure the developper mode is on !*
 Right click on the button that is circled for copy ID
-https://raw.githubusercontent.com/NaNtheDev/self-music/images/Capture.PNG
+[![N|Solid](https://raw.githubusercontent.com/NaNtheDev/self-music/images/Capture.PNG)](https://raw.githubusercontent.com/NaNtheDev/self-music/images/Capture.PNG)
