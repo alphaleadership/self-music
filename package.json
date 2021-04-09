@@ -1,0 +1,20 @@
+{
+  "name": "self-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NaN",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "eris": "^0.15.0",
+    "ffmpeg": "0.0.4",
+    "google-tts-api": "^2.0.2",
+    "node-opus": "^0.3.3",
+    "terminal-kit": "^2.0.7",
+    "ytdl-core": "^4.5.0"
+  }
+}
