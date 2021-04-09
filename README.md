@@ -35,8 +35,6 @@ Make right click again to paste on the terminal
 
 ## Now your are connected !
 **Docs:** 
-
-<br></br>
 <br></br>
 **PLAY FILES**
 <br></br>
