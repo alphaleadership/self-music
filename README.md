@@ -1,5 +1,6 @@
 # Self Music
 Author: NaN#7070
+Self-Music it's a powerfull app for play music on discord ! using tts of google and play songs from youtube !
 
 ## Requirements
 ### ffmpeg (in your path)
