@@ -1,3 +1,8 @@
+/*
+Discord: NaN#7070
+https://alexbeats.tk
+*/
+
 const Eris = require('eris');
 const term = require('terminal-kit').terminal;
 const chalk = require('chalk');
