@@ -36,6 +36,7 @@ Make right click again to paste on the terminal
 <br></br>
 <br></br>
 **PLAY FILES**
+<br></br>
 [ID (0/Number of files)] for playing
 Images:
 <br></br>
@@ -44,6 +45,7 @@ Images:
 <br></br>
 <br></br>
 **TTS**
+<br></br>
 tts [TEXT] for playing google tts
 Images:
 <br></br>
@@ -52,6 +54,7 @@ Images:
 <br></br>
 <br></br>
 **PLAY**
+<br></br>
 play [url] for playing sound from youtube
 Images:
 <br></br>
