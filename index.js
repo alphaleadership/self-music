@@ -46,7 +46,7 @@ term.inputField((err, input) => {
                     if (inputID[0] == 'exit') return process.exit(0);
                     if (inputID[0] == 'tts') {
                         inputID.shift();
-                        console.log('\nStart of playing ...');
+                        console.log(`\nPlaying ${inputID.join('')} ...`);
                         const url = tts.getAudioUrl(inputID.join(''), {
                             lang: 'fr',
                             slow: false,
@@ -65,7 +65,7 @@ term.inputField((err, input) => {
                     if (inputID[0] == 'play') {
                         inputID.shift();
                         if (inputID == "") return process.exit(0);
-                        console.log('\nStart of playing ...');
+                        console.log(`\nPlaying ${inputID[0]} ...`);
                         const info = await ytdl.getInfo(inputID[0].split('').reverse().join('').split('=')[0].split('').reverse().join(''));
                         const audioStream = await ytdl.filterFormats(info.formats, 'audioonly')[0].url;
                         return client.joinVoiceChannel(inputChannelID)
@@ -85,7 +85,7 @@ term.inputField((err, input) => {
                     client.joinVoiceChannel(inputChannelID)
                         .then(connection => {
                             if (connection.playing) connection.stopPlaying();
-                            console.log('\nStart of playing ...');
+                            console.log(`\nPlaying ${files[inputID]} ...`);
                             connection.play(`./music/${files[inputID]}`);
                             connection.once('end', () => {
                                 choose();
