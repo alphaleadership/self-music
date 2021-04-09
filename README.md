@@ -43,8 +43,6 @@ Make right click again to paste on the terminal
 Images:
 <br></br>
 [![N|Solid](https://raw.githubusercontent.com/NaNtheDev/self-music/images/mp3.PNG)](https://raw.githubusercontent.com/NaNtheDev/self-music/images/mp3.PNG)
-
-<br></br>
 <br></br>
 **TTS**
 <br></br>
@@ -53,8 +51,6 @@ tts [TEXT] for playing google tts
 Images:
 <br></br>
 [![N|Solid](https://raw.githubusercontent.com/NaNtheDev/self-music/images/tts.PNG)](https://raw.githubusercontent.com/NaNtheDev/self-music/images/tts.PNG)
-
-<br></br>
 <br></br>
 **PLAY**
 <br></br>
