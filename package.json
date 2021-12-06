@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "chalk": "^4.1.0",
-    "eris": "^0.15.0",
+    "eris": "^0.16.0",
     "ffmpeg": "0.0.4",
     "google-tts-api": "^2.0.2",
     "node-opus": "^0.3.3",
